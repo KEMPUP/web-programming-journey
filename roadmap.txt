@@ -3,7 +3,7 @@ frontend
 -css basic (sudah)
 -css layouting (on progress)
 -tailwind (next week)
--css3 (listed)
+-javascript (listed)
 
 Backend
 -python (listed)
