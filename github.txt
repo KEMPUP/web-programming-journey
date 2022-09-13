@@ -1,3 +1,8 @@
 belajar mengenai github dan cara penggunaannya dari playlist "GIT & GITHUB" Web Programming unpas
 
 belajar bab 1 penjelasan apa itu git dan github https://youtu.be/lTMZxWMjXQU
+belajar bab 2 bekerja dengan github https://youtu.be/Q3Id0DgcrXY
+  -membuat akun github
+  -membuat repository baru
+  -melakukan commit perubahan file
+  -melihat history commit dan melihat insight
