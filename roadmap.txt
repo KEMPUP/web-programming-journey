@@ -1,0 +1,19 @@
+frontend
+-html basic (sudah)
+-css basic (sudah)
+-css layouting (on progress)
+-tailwind (next week)
+
+Backend
+-python (listed)
+-python OOP (listed)
+-djanggo (listed)
+
+API
+-Djanggo Rest (listed)
+
+DBSM
+-postgre sql (listed)
+
+VCS
+-GITHUB (on progress)
