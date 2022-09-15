@@ -4,6 +4,7 @@ rencana menambah skill tambahan
   *belajar listening
   *belajar grammar
    ^belajar present
+   ^belajar future
 -belajar softskill lain
   *belajar internet marketing
 -belajar time management
