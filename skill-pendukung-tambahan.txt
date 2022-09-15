@@ -3,7 +3,9 @@ rencana menambah skill tambahan
   *belajar vocab
   *belajar listening
   *belajar grammar
+     ^belajar present
+     ^belajar future
     ^belajar past tense
- -belajar memasak
-  ^memasak daging
- -belajar olahraga
+belajar softskill lain
+  *belajar internet marketing
+  *belajar time management
