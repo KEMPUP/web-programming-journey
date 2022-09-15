@@ -2,4 +2,5 @@ rencana menambah skill tambahan
 -belajar bahasa inggris
   *belajar vocab
   *belajar listening
+  *belajar grammar
 -belajar softskill lain
