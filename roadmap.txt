@@ -6,7 +6,7 @@ frontend
 -javascript (listed)
 
 Backend
--python (listed)
+-python (on progress)
 -python OOP (listed)
 -djanggo (listed)
 
